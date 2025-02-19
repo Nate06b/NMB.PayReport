@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Semester 2 Ongoing\\Programming C\u002B\u002B\\NMB.PayReport\\",
+  "WorkspaceRootPath": "C:\\Users\\beard\\source\\repos\\NMB.PayReport\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F621665F-92B7-45FF-9873-CEB39F7CCF85}|NMB.PayReport\\NMB.PayReport.vcxproj|E:\\Semester 2 Ongoing\\Programming C\u002B\u002B\\NMB.PayReport\\NMB.PayReport\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F621665F-92B7-45FF-9873-CEB39F7CCF85}|NMB.PayReport\\NMB.PayReport.vcxproj|solutionrelative:NMB.PayReport\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\beard\\source\\repos\\NMB.PayReport\\NMB.PayReport\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMB.PayReport\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "E:\\Semester 2 Ongoing\\Programming C\u002B\u002B\\NMB.PayReport\\NMB.PayReport\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\beard\\source\\repos\\NMB.PayReport\\NMB.PayReport\\Main.cpp",
               "RelativeDocumentMoniker": "NMB.PayReport\\Main.cpp",
-              "ToolTip": "E:\\Semester 2 Ongoing\\Programming C\u002B\u002B\\NMB.PayReport\\NMB.PayReport\\Main.cpp",
+              "ToolTip": "C:\\Users\\beard\\source\\repos\\NMB.PayReport\\NMB.PayReport\\Main.cpp",
               "RelativeToolTip": "NMB.PayReport\\Main.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-17T19:39:11.381Z",
               "EditorCaption": ""

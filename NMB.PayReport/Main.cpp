@@ -13,7 +13,6 @@ struct Employee {
     float HourlyRate = 0;
 };
 
-const float tax = 0.15f; // i just felt like adding this after finishing.
 
 int main()
 {
@@ -40,25 +39,23 @@ int main()
     }
 
 	float totalPay = 0;
-	float totalAfterTax = 0;
 	cout << "Pay Report <<< \n";
 	for (int i = 0; i < employeeAmount; i++)
 	{
 		float pay = employeeInfo[i].HoursWorked * employeeInfo[i].HourlyRate;
-		float amountTaxed = pay * tax;
-		float afterTax = pay - amountTaxed;
-		totalPay += pay;
-		totalAfterTax += afterTax;
+	    totalPay += pay; 
 
 
-		cout << "Employee ID: " << employeeInfo[i].ID << ". Employee Name: " << employeeInfo[i].FirstName << " " << employeeInfo[i].LastName << ". Pay: $" << pay;
-		cout << " After Tax: $" << afterTax << "\n";
+		cout << "	Employee ID: " << employeeInfo[i].ID << "\n" << "  Employee Name: " << employeeInfo[i].FirstName << " " << employeeInfo[i].LastName << "\n";
+		cout << "	Weekly Pay: $" << pay << "\n";
+		
+
+
+				
+
 	}
-
-
-	cout << "\n" << " Total Pay: $" << totalPay <<  " Total Pay after tax: $" << totalAfterTax << "\n";
-	
-	
+		cout << "Total pay for all: $" << totalPay << "\n";
+		cout << " \n";
 	(void)_getch();
 	return 0;
 }
